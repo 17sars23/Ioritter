@@ -1,0 +1,6 @@
+framework module Pods_IoritterUITests {
+  umbrella header "Pods-IoritterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
